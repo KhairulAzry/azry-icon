@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'azry-icon';
+  src:  url('fonts/azry-icon.eot?77bh4s');
+  src:  url('fonts/azry-icon.eot?77bh4s#iefix') format('embedded-opentype'),
+    url('fonts/azry-icon.ttf?77bh4s') format('truetype'),
+    url('fonts/azry-icon.woff?77bh4s') format('woff'),
+    url('fonts/azry-icon.svg?77bh4s#azry-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'azry-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.az-check-box-empty:before {
+  content: "\e911";
+}
+.az-check:before {
+  content: "\e912";
+}
+.az-facebook:before {
+  content: "\e913";
+}
+.az-export:before {
+  content: "\e914";
+}
+.az-github:before {
+  content: "\e915";
+}
+.az-google-plus:before {
+  content: "\e916";
+}
+.az-google:before {
+  content: "\e917";
+}
+.az-multi-window:before {
+  content: "\e905";
+}
+.az-shield:before {
+  content: "\e906";
+}
+.az-aisara:before {
+  content: "\e904";
+}
+.az-cogs:before {
+  content: "\e907";
+}
+.az-database:before {
+  content: "\e900";
+}
+.az-desktop:before {
+  content: "\e908";
+}
+.az-download:before {
+  content: "\e909";
+}
+.az-dropbox:before {
+  content: "\e90a";
+}
+.az-edit:before {
+  content: "\e90b";
+}
+.az-gdrive:before {
+  content: "\e90c";
+}
+.az-gear:before {
+  content: "\e90d";
+}
+.az-home:before {
+  content: "\e903";
+}
+.az-plus:before {
+  content: "\e901";
+}
+.az-search:before {
+  content: "\e902";
+}
+.az-trash:before {
+  content: "\e90e";
+}
+.az-upload:before {
+  content: "\e90f";
+}
+.az-user:before {
+  content: "\e910";
+}
