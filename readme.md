@@ -1,84 +1,55 @@
-![Tabulator Table](http://olifolkerd.github.io/tabulator/images/tabulator.png)
+![Azry-icon](https://khairulazry.github.io/azry-icon/img/azry-icon.png)
 
-### Version 4.1 Out Now!
+### Version 1.1.6 Released!
 
-An easy to use interactive table generation JavaScript library
-
-Full documentation & demos can be found at: [http://tabulator.info](http://tabulator.info)
-***
-![Tabulator Table](http://tabulator.info/images/tabulator_table.jpg)
-***
-
-NPM Package Changed
-================================
-jQuery was removed as a dependency in the 4.0 release, so Tabulator has moved in NPM from the old [jquery.tabulator](https://www.npmjs.com/package/jquery.tabulator) package to the new [tabulator-tables](https://www.npmjs.com/package/tabulator-tables) package.
+An easy to use icon library in your project.
 
 
 Features
 ================================
-Tabulator allows you to create interactive tables in seconds from any HTML Table, Javascript Array or JSON formatted data.
+Azry-icon allows you to put interactive icon in your HTML codes.
 
-Simply include the library and the css in your project and you're away!
-
-Tabulator is packed with useful features including:
-
-![Tabulator Features](http://olifolkerd.github.io/tabulator/images/featurelist_share.png)
+Simply include the library in your project and you're away!
 
 
 Frontend Framework Support
 ================================
-Tabulator is built to work with all the major front end JavaScript frameworks including React, Angular and Vue.
+Azry-icon is built to work with all the major front end framework.
 
 
 Setup
 ================================
-Setting up tabulator could not be simpler.
+Setting up Azry-icon is somehow quite easy.
 
+
+### NPM Installation
+To get Azry-icon via the NPM package manager, open a terminal in your project directory and run the following commmand:
+```
+npm i @khairulazry/azry-icon
+```
+
+### In-project Use
 Include the library and the css
 ```html
 <link href="dist/css/tabulator.min.css" rel="stylesheet">
 <script type="text/javascript" src="dist/js/tabulator.min.js"></script>
 ```
 
+Use icon in your code, for example
 Create an element to hold the table
 ```html
-<div id="example-table"></div>
-```
-
-Turn the element into a tabulator with some simple javascript
-```js
-var table = new Tabulator("#example-table", {});
-```
-
-
-### Bower Installation
-To get Tabulator via the Bower package manager, open a terminal in your project directory and run the following commmand:
-```
-bower install tabulator --save
-```
-
-### NPM Installation
-To get Tabulator via the NPM package manager, open a terminal in your project directory and run the following commmand:
-```
-npm install tabulator-tables --save
-```
-
-### CDN - UNPKG
-To access Tabulator directly from the UNPKG CDN servers, include the following two lines at the start of your project, instead of the localy hosted versions:
-```html
-<link href="https://unpkg.com/tabulator-tables@4.1.3/dist/css/tabulator.min.css" rel="stylesheet">
-<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.1.3/dist/js/tabulator.min.js"></script>
+<i class="az-user"></i>
 ```
 
 Coming Soon
 ================================
-Tabulator is actively under development and I plan to have even more useful features implemented soon, including:
+Azry-icon is actively under development and I plan to have even more icons soon, including:
 
-- Data Reactivity
-- Custom Row Templates
-- Additional Editors and Formatters
-- Print Styling
-- Multi Cell Editing
-- Cell Selection
+- Social Network Logo Collection
+- Multimedia Collection
+- SEO and Online Marketing Collection
+- Avatar Collection
+- Interface Collection
+- eCommerce Collection
 
-Get in touch if there are any features you feel Tabulator needs.
+Get in touch if there are any icon collection you feel Azry-icon needs.
