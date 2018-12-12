@@ -31,12 +31,10 @@ npm i @khairulazry/azry-icon
 ### In-project Use
 Include the library and the css
 ```html
-<link href="dist/css/tabulator.min.css" rel="stylesheet">
-<script type="text/javascript" src="dist/js/tabulator.min.js"></script>
+<link rel="stylesheet" href="azry-icon/scss/style.css">
 ```
 
 Use icon in your code, for example
-Create an element to hold the table
 ```html
 <i class="az-user"></i>
 ```
