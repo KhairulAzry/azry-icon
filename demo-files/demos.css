@@ -1,0 +1,35 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans" !important;
+  font-size: 1em;
+  line-height: 1.5; 
+  color: #555;
+  /*background: #fff;*/
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+}
+
+.pd10 {
+	padding: 10px;
+}
+
+.mg-tb-5 {
+	margin: 5px 0;
+}
+
+.mls {
+  margin-left: .25em;
+}
+
+.tle {
+	font-size: 1.5em;
+	font-weight: 500;
+}
+.nw {
+	font-size: .5em !important;
+}
+
+.gd-bg {
+	background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%) !important;
+	color: #fff !important;
+}
