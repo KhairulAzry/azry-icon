@@ -1,9 +1,9 @@
 ![Azry-icon](https://khairulazry.github.io/azry-icon/doc/logo.png)
 
-### Version 1.1.7 Released!
+### Version 1.1.8 Released!
 
 An easy to use icon library in your project.
-View demo files [here](https://khairulazry.githubio/azry-icon/demo.html).
+View demo files [here](https://khairulazry.github.io/azry-icon/demos.html).
 
 
 Features
