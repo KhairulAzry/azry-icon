@@ -1,4 +1,4 @@
-![Azry-icon](https://khairulazry.github.io/azry-icon/tree/master/demo-files/logo.png)
+![Azry-icon](https://khairulazry.github.io/azry-icon/demo-files/azry-icon.png)
 
 ### Version 1.1.9 Released!
 
