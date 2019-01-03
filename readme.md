@@ -1,9 +1,9 @@
 ![Azry-icon](https://khairulazry.github.io/azry-icon/doc/logo.png)
 
-### Version 1.1.8 Released!
+### Version 1.1.9 Released!
 
 An easy to use icon library in your project.
-View demo files [here](https://khairulazry.github.io/azry-icon/demos.html).
+View demo files [here](https://khairulazry.github.io/azry-icon/demo.html).
 
 
 Features
@@ -11,10 +11,13 @@ Features
 Azry-icon allows you to put interactive icon in your HTML codes.
 Simply include the library in your project and you're away!
 
-New icons:
+Previous icons:
 - Imported from Font Awesome
-- Avatar (Colored) Icon
+- Azry-Icon (Special)
 
+New icons:
+- People Faces
+- File Name
 
 
 Frontend Framework Support
